@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "surgical")(type "KiCad")(uri "${KIPRJMOD}/surgical.kicad_sym")(options "")(descr ""))
+)
